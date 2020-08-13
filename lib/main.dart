@@ -56,7 +56,7 @@ class StudApp extends StatelessWidget {
                 height: 30.0,
                 width: 1000.0,
                 decoration: BoxDecoration(
-                  color: Colors.green
+                  color: Colors.blue
                 ),
                 child: Center(child: Text("SUBMIT")),
 
